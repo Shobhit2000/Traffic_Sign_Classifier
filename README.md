@@ -10,12 +10,19 @@ https://colab.research.google.com/drive/19JWBxlRUsEcru1k9eJxZEco4SsnOPGgc
 
 # Requirements
 cv2
+
 keras
+
 tensorflow
+
 Pillow
+
 numpy
+
 matplotlib
+
 random
+
 os
 
 # Loss and Accuracy Graph
