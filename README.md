@@ -3,7 +3,7 @@ This model classifies over 43 road signs
 
 Predicted Sign = Stop
 
-![](Test%20/sample%206.png)
+![](Test%20Images/sample%206.png)
 
 # Google Colab Link:
 https://colab.research.google.com/drive/19JWBxlRUsEcru1k9eJxZEco4SsnOPGgc
