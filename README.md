@@ -8,7 +8,10 @@ Predicted Sign = Stop
 # Google Colab Link:
 https://colab.research.google.com/drive/19JWBxlRUsEcru1k9eJxZEco4SsnOPGgc
 
-# Requirements
+# Requirements:
+
+These libraries are required to run the model
+
 cv2
 
 keras
@@ -25,4 +28,4 @@ random
 
 os
 
-# Loss and Accuracy Graph
+# Loss and Accuracy Graph:
