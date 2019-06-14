@@ -27,7 +27,3 @@ matplotlib
 random
 
 os
-
-# Loss and Accuracy Graph:
-
-![](C:/Users/SHOBHIT/Desktop/download.png)
